@@ -201,7 +201,7 @@ for i, row in results.iterrows():
       print("**Paper Summary:**\n", summary)
       print("-" * 80 + "\n")
 
-resualts is:
+results is:
 ================================================================================
 Top 5 Results for Query: 'Neural networks for NLP'
 ================================================================================
