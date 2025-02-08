@@ -1,7 +1,3 @@
-Here's a README file based on your notebook and project phase. It includes an overview, methodology, and challenges, formatted for GitHub.  
-
----
-
 ### 📚 AI Research Paper Scraper
 
 ## **Overview**
